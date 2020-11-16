@@ -1,6 +1,6 @@
 # Social Distancing Detector
 ## Overview
-A prototype developed at **2020 TechAide AI4GOOD Hackathon** to detect the violations of social distancing on the streets and visualize it on the map in realtime.
+A prototype developed at **2020 TechAide AI4GOOD Hackathon** to detect the violations of social distancing on the streets and visualize it on the map in realtime in order to predict the risk of transmission and equip the authorities with necessary data to suggest the stringency of measures swiftly.
 
 Awarded the **Best Technical Solution**!
 
